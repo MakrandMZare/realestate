@@ -132,16 +132,9 @@ class NavbarV2 extends Component {
 					<ul>
 						<li><a href="#">Home</a>
 						<ul className="sub-menu">
-						<li><Link to="/">Home Style 01</Link></li>
-						<li><Link to="/home-v2">Home Style 02</Link></li>
-						<li><Link to="/home-v3">Home Style 03</Link></li>
-						<li><Link to="/home-v4">Home Style 04</Link></li>
-						<li><Link to="/home-v5">Home Style 05 <span className="menu-item-badge">video</span></Link></li>
-						<li><Link to="/home-v6">Home Style 06</Link></li>
-						<li><Link to="/home-v7">Home Style 07</Link></li>
-						<li><Link to="/home-v8">Home Style 08</Link></li>
+						<li><Link to="/">Home</Link></li>
 						<li><Link to="/home-v9">Home Style 09</Link></li>
-						<li><Link to="/home-v10">Home Style 10</Link></li>
+						
 						</ul>
 						</li>
 						<li><Link to="/about">About</Link>
